@@ -26,7 +26,8 @@ pip install DoubleLinkedList .<br/>
 14. In order to print certain data use .dlprint(element)<br/>
 
 ## Example <a name="installation"></a>
-'''python
+
+```python
 from DoubleLinkedList import DLinked
 
 dll = DLinked.Linked()
@@ -42,4 +43,4 @@ dll.inversion(1)
 dll.delete(2)
 dll.popfront()
 dll.popback()
-'''
+```
