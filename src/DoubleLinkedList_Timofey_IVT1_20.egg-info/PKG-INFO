@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: DoubleLinkedList-Timofey-IVT1-20
+Version: 1.0.0
+Summary: This package is double linked list
+Home-page: https://github.com/Timofey-Ivantsov
+Author: Ivantsov Timofey
+Author-email: TimofeyIvantsov@yandex.ru
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/DoubleLinkedList/DLinked.py
+src/DoubleLinkedList/__init__.py
+src/DoubleLinkedList_Timofey_IVT1_20.egg-info/PKG-INFO
+src/DoubleLinkedList_Timofey_IVT1_20.egg-info/SOURCES.txt
+src/DoubleLinkedList_Timofey_IVT1_20.egg-info/dependency_links.txt
+src/DoubleLinkedList_Timofey_IVT1_20.egg-info/top_level.txt
